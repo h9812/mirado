@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Eye outline -->
+  <path d="M256 128C149.333 128 58.667 192 32 256c26.667 64 117.333 128 224 128s197.333-64 224-128c-26.667-64-117.333-128-224-128z" 
+        fill="none" stroke="#4A5568" stroke-width="32" stroke-linecap="round" stroke-linejoin="round"/>
+  
+  <!-- Markdown down arrow (centered) -->
+  <g transform="translate(256, 256)">
+    <!-- Vertical line/stem -->
+    <rect x="-12" y="-50" width="24" height="80" fill="#718096" rx="6"/>
+    
+    <!-- Arrow head (chevron pointing down) -->
+    <path d="M -50 0 L 0 50 L 50 0 L 35 -15 L 0 20 L -35 -15 Z" fill="#718096"/>
+  </g>
+</svg>
