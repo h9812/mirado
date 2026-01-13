@@ -1,0 +1,39 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+out/
+*.dmg
+*.exe
+*.deb
+*.AppImage
+*.zip
+*.blockmap
+build/icon@2x.png
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.sublime-*
+
+# Temp files
+*.swp
+*.swo
+*~
+.cache/
+
+# Environment
+.env
+.env.local
+
+# User data
+recent-files.json
